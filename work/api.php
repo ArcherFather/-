@@ -1,6 +1,6 @@
 <?php
 /*
- * 驗證台灣身分證字號始否符合格式
+ * 驗證台灣身分證字號是否符合格式
  */
 function isTWId($id) : bool {
     $ret = false;
